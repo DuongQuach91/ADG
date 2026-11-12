@@ -1,0 +1,984 @@
+[{
+  "_id": {
+    "$oid": "693f172070aff873ede729a5"
+  },
+  "name": "Admin ADG",
+  "email": "admin@adg.com",
+  "phone": "0901234567",
+  "password": "$2b$10$1pKIYApnZnXMc71IpnkE6.hRG/g/wOQs8yapfAvI9douLbdU8s1Ii",
+  "avatar": "",
+  "role": "admin",
+  "isActive": true,
+  "favorites": [],
+  "watchHistory": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T03:17:31.309Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede729a7"
+  },
+  "name": "Nguyễn Văn An",
+  "email": "an.nguyen@gmail.com",
+  "phone": "0912345678",
+  "password": "$2b$10$LM0axL2TU2fqS7SKhbynruG41tdHV/ju16.V5qNBDoygif4mjIMR2",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede729c3"
+    },
+    {
+      "$oid": "693f173570aff873ede729cd"
+    },
+    {
+      "$oid": "693f173570aff873ede729bd"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729e1"
+      },
+      "episode": 5,
+      "watchedAt": {
+        "$date": "2025-11-15T23:29:50.884Z"
+      },
+      "progress": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72c05"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a17"
+      },
+      "episode": 3,
+      "watchedAt": {
+        "$date": "2025-11-28T01:30:15.876Z"
+      },
+      "progress": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72c06"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72ac5"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-11-30T18:46:51.453Z"
+      },
+      "progress": 89,
+      "_id": {
+        "$oid": "693f173570aff873ede72c07"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a23"
+      },
+      "episode": 4,
+      "watchedAt": {
+        "$date": "2025-12-06T17:47:39.377Z"
+      },
+      "progress": 97,
+      "_id": {
+        "$oid": "693f173570aff873ede72c08"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72bf5"
+      },
+      "episode": 9,
+      "watchedAt": {
+        "$date": "2025-11-17T17:22:04.541Z"
+      },
+      "progress": 3,
+      "_id": {
+        "$oid": "693f173570aff873ede72c09"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d5"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-12-11T13:44:30.573Z"
+      },
+      "progress": 32,
+      "_id": {
+        "$oid": "693f173570aff873ede72c0a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede729a9"
+  },
+  "name": "Trần Thị Bình",
+  "email": "binh.tran@gmail.com",
+  "phone": "0923456789",
+  "password": "$2b$10$MEhV7UyF6X47WHz32znxXunhjbg5AxMRFjTAsy0HhqfzRWGHcXrmy",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede729dd"
+    },
+    {
+      "$oid": "693f173570aff873ede72bfa"
+    },
+    {
+      "$oid": "693f173570aff873ede72a23"
+    },
+    {
+      "$oid": "693f173570aff873ede72b2d"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72bc1"
+      },
+      "episode": 6,
+      "watchedAt": {
+        "$date": "2025-11-21T11:58:59.604Z"
+      },
+      "progress": 63,
+      "_id": {
+        "$oid": "693f173570aff873ede72c0c"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729df"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-11-28T15:16:36.412Z"
+      },
+      "progress": 34,
+      "_id": {
+        "$oid": "693f173570aff873ede72c0d"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d1"
+      },
+      "episode": 2,
+      "watchedAt": {
+        "$date": "2025-12-09T09:30:12.548Z"
+      },
+      "progress": 3,
+      "_id": {
+        "$oid": "693f173570aff873ede72c0e"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a0d"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-12-04T08:51:34.717Z"
+      },
+      "progress": 14,
+      "_id": {
+        "$oid": "693f173570aff873ede72c0f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede729ab"
+  },
+  "name": "Lê Văn Cường",
+  "email": "cuong.le@gmail.com",
+  "phone": "0934567890",
+  "password": "$2b$10$r7fwjSTTNzMv1Nf6ubd3L.dXAqwIiOcEucclv458fKYuvY9glMKj.",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede729df"
+    },
+    {
+      "$oid": "693f173570aff873ede72a17"
+    },
+    {
+      "$oid": "693f173570aff873ede72b59"
+    },
+    {
+      "$oid": "693f173570aff873ede729bf"
+    },
+    {
+      "$oid": "693f173570aff873ede729cb"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729cb"
+      },
+      "episode": 4,
+      "watchedAt": {
+        "$date": "2025-11-21T04:36:23.602Z"
+      },
+      "progress": 76,
+      "_id": {
+        "$oid": "693f173570aff873ede72c11"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729e1"
+      },
+      "episode": 5,
+      "watchedAt": {
+        "$date": "2025-11-17T20:43:42.908Z"
+      },
+      "progress": 83,
+      "_id": {
+        "$oid": "693f173570aff873ede72c12"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a29"
+      },
+      "episode": 10,
+      "watchedAt": {
+        "$date": "2025-11-30T02:24:56.574Z"
+      },
+      "progress": 15,
+      "_id": {
+        "$oid": "693f173570aff873ede72c13"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.960Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172170aff873ede729ad"
+  },
+  "name": "Phạm Thị Dung",
+  "email": "dung.pham@gmail.com",
+  "phone": "0945678901",
+  "password": "$2b$10$3O6/zpG86RHdwszCxLTSjObLQKbUmzJ0tphiLbyj2xHw.2PnmWOjO",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede72a0d"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729df"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-11-15T00:32:09.993Z"
+      },
+      "progress": 4,
+      "_id": {
+        "$oid": "693f173570aff873ede72c15"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72bc1"
+      },
+      "episode": 9,
+      "watchedAt": {
+        "$date": "2025-11-16T19:59:14.026Z"
+      },
+      "progress": 82,
+      "_id": {
+        "$oid": "693f173570aff873ede72c16"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:29.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172170aff873ede729af"
+  },
+  "name": "Hoàng Văn Em",
+  "email": "em.hoang@gmail.com",
+  "password": "$2b$10$0YPmheOrKdzkwBAQATb4uet0huw71pFcSmzPVa5QtkKKZ3PL8uOZG",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede729d5"
+    },
+    {
+      "$oid": "693f173570aff873ede729db"
+    },
+    {
+      "$oid": "693f173570aff873ede72b8d"
+    },
+    {
+      "$oid": "693f173570aff873ede729dd"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729c3"
+      },
+      "episode": 5,
+      "watchedAt": {
+        "$date": "2025-11-15T01:53:58.955Z"
+      },
+      "progress": 82,
+      "_id": {
+        "$oid": "693f173570aff873ede72c18"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729b9"
+      },
+      "episode": 6,
+      "watchedAt": {
+        "$date": "2025-11-23T02:34:27.015Z"
+      },
+      "progress": 65,
+      "_id": {
+        "$oid": "693f173570aff873ede72c19"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72b8d"
+      },
+      "episode": 1,
+      "watchedAt": {
+        "$date": "2025-11-20T21:51:24.628Z"
+      },
+      "progress": 71,
+      "_id": {
+        "$oid": "693f173570aff873ede72c1a"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a23"
+      },
+      "episode": 10,
+      "watchedAt": {
+        "$date": "2025-11-26T01:33:11.035Z"
+      },
+      "progress": 88,
+      "_id": {
+        "$oid": "693f173570aff873ede72c1b"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729cd"
+      },
+      "episode": 2,
+      "watchedAt": {
+        "$date": "2025-11-17T06:10:52.477Z"
+      },
+      "progress": 22,
+      "_id": {
+        "$oid": "693f173570aff873ede72c1c"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729c1"
+      },
+      "episode": 3,
+      "watchedAt": {
+        "$date": "2025-12-08T11:05:12.004Z"
+      },
+      "progress": 32,
+      "_id": {
+        "$oid": "693f173570aff873ede72c1d"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72b59"
+      },
+      "episode": 8,
+      "watchedAt": {
+        "$date": "2025-12-11T20:24:22.773Z"
+      },
+      "progress": 10,
+      "_id": {
+        "$oid": "693f173570aff873ede72c1e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:29.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172170aff873ede729b1"
+  },
+  "name": "Vũ Thị Phương",
+  "email": "phuong.vu@gmail.com",
+  "password": "$2b$10$0LiNQVwTomI1w2mFNUgA3.LtN97XsICCwStT9WIsmAEpGx3gjs5MC",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede72ac5"
+    },
+    {
+      "$oid": "693f173570aff873ede729c3"
+    },
+    {
+      "$oid": "693f173570aff873ede729c7"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a0d"
+      },
+      "episode": 10,
+      "watchedAt": {
+        "$date": "2025-12-01T23:28:40.089Z"
+      },
+      "progress": 84,
+      "_id": {
+        "$oid": "693f173570aff873ede72c20"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729c1"
+      },
+      "episode": 5,
+      "watchedAt": {
+        "$date": "2025-11-26T18:39:29.659Z"
+      },
+      "progress": 8,
+      "_id": {
+        "$oid": "693f173570aff873ede72c21"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d5"
+      },
+      "episode": 2,
+      "watchedAt": {
+        "$date": "2025-12-10T01:08:49.858Z"
+      },
+      "progress": 61,
+      "_id": {
+        "$oid": "693f173570aff873ede72c22"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a29"
+      },
+      "episode": 6,
+      "watchedAt": {
+        "$date": "2025-11-26T01:10:11.461Z"
+      },
+      "progress": 26,
+      "_id": {
+        "$oid": "693f173570aff873ede72c23"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72b8d"
+      },
+      "episode": 6,
+      "watchedAt": {
+        "$date": "2025-12-14T13:49:51.909Z"
+      },
+      "progress": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72c24"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:29.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172170aff873ede729b3"
+  },
+  "name": "Đặng Văn Giang",
+  "email": "giang.dang@gmail.com",
+  "password": "$2b$10$GtOgmg2H41.eCFVJttDD1.iJ/1rEesZiz5ptK1IFMTDh79ytv2OQa",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede729d9"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729bb"
+      },
+      "episode": 9,
+      "watchedAt": {
+        "$date": "2025-11-21T11:43:40.202Z"
+      },
+      "progress": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72c26"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a29"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-12-04T23:33:18.336Z"
+      },
+      "progress": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72c27"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d9"
+      },
+      "episode": 9,
+      "watchedAt": {
+        "$date": "2025-11-16T01:24:50.771Z"
+      },
+      "progress": 78,
+      "_id": {
+        "$oid": "693f173570aff873ede72c28"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729c7"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-12-08T13:42:49.859Z"
+      },
+      "progress": 73,
+      "_id": {
+        "$oid": "693f173570aff873ede72c29"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729cb"
+      },
+      "episode": 3,
+      "watchedAt": {
+        "$date": "2025-12-04T21:13:47.714Z"
+      },
+      "progress": 3,
+      "_id": {
+        "$oid": "693f173570aff873ede72c2a"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72b2d"
+      },
+      "episode": 1,
+      "watchedAt": {
+        "$date": "2025-12-02T23:03:23.925Z"
+      },
+      "progress": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72c2b"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a5d"
+      },
+      "episode": 6,
+      "watchedAt": {
+        "$date": "2025-11-29T14:43:14.371Z"
+      },
+      "progress": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72c2c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:29.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T03:17:56.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172170aff873ede729b5"
+  },
+  "name": "Bùi Thị Hoa",
+  "email": "hoa.bui@gmail.com",
+  "password": "$2b$10$5XQ9flZ4pSRsnzZ4mSxSj.4m3pGJYD/.Bi/QNvV8zLWadVxT.EAMq",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede72ac5"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d5"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-11-21T03:56:12.848Z"
+      },
+      "progress": 2,
+      "_id": {
+        "$oid": "693f173570aff873ede72c2e"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729c3"
+      },
+      "episode": 4,
+      "watchedAt": {
+        "$date": "2025-12-02T14:08:53.598Z"
+      },
+      "progress": 25,
+      "_id": {
+        "$oid": "693f173570aff873ede72c2f"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d9"
+      },
+      "episode": 4,
+      "watchedAt": {
+        "$date": "2025-11-29T07:01:49.129Z"
+      },
+      "progress": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72c30"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72b59"
+      },
+      "episode": 8,
+      "watchedAt": {
+        "$date": "2025-11-30T15:58:26.758Z"
+      },
+      "progress": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72c31"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a17"
+      },
+      "episode": 8,
+      "watchedAt": {
+        "$date": "2025-11-25T12:24:36.983Z"
+      },
+      "progress": 38,
+      "_id": {
+        "$oid": "693f173570aff873ede72c32"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729df"
+      },
+      "episode": 8,
+      "watchedAt": {
+        "$date": "2025-12-09T09:56:27.423Z"
+      },
+      "progress": 13,
+      "_id": {
+        "$oid": "693f173570aff873ede72c33"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72b2d"
+      },
+      "episode": 1,
+      "watchedAt": {
+        "$date": "2025-11-15T21:42:09.046Z"
+      },
+      "progress": 15,
+      "_id": {
+        "$oid": "693f173570aff873ede72c34"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a5d"
+      },
+      "episode": 10,
+      "watchedAt": {
+        "$date": "2025-11-18T22:23:53.092Z"
+      },
+      "progress": 94,
+      "_id": {
+        "$oid": "693f173570aff873ede72c35"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a91"
+      },
+      "episode": 3,
+      "watchedAt": {
+        "$date": "2025-11-17T19:37:17.306Z"
+      },
+      "progress": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72c36"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:29.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f172170aff873ede729b7"
+  },
+  "name": "Ngô Văn Khoa",
+  "email": "khoa.ngo@gmail.com",
+  "password": "$2b$10$QwL9dZNq5w.gec4OzK7AtuwCPplVqKgaiUOQAS0n4Xj8qAqrbpO6y",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [
+    {
+      "$oid": "693f173570aff873ede72b2d"
+    },
+    {
+      "$oid": "693f173570aff873ede729cd"
+    },
+    {
+      "$oid": "693f173570aff873ede729bd"
+    },
+    {
+      "$oid": "693f173570aff873ede72a0d"
+    }
+  ],
+  "watchHistory": [
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d1"
+      },
+      "episode": 9,
+      "watchedAt": {
+        "$date": "2025-11-21T15:16:57.619Z"
+      },
+      "progress": 91,
+      "_id": {
+        "$oid": "693f173570aff873ede72c38"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729bd"
+      },
+      "episode": 4,
+      "watchedAt": {
+        "$date": "2025-11-18T09:55:04.556Z"
+      },
+      "progress": 8,
+      "_id": {
+        "$oid": "693f173570aff873ede72c39"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729d7"
+      },
+      "episode": 5,
+      "watchedAt": {
+        "$date": "2025-12-14T15:00:14.686Z"
+      },
+      "progress": 17,
+      "_id": {
+        "$oid": "693f173570aff873ede72c3a"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72b59"
+      },
+      "episode": 9,
+      "watchedAt": {
+        "$date": "2025-12-13T22:59:50.588Z"
+      },
+      "progress": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72c3b"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729dd"
+      },
+      "episode": 8,
+      "watchedAt": {
+        "$date": "2025-12-07T05:15:04.971Z"
+      },
+      "progress": 78,
+      "_id": {
+        "$oid": "693f173570aff873ede72c3c"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede72a91"
+      },
+      "episode": 6,
+      "watchedAt": {
+        "$date": "2025-11-21T03:42:17.019Z"
+      },
+      "progress": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72c3d"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729bf"
+      },
+      "episode": 7,
+      "watchedAt": {
+        "$date": "2025-11-20T01:18:33.661Z"
+      },
+      "progress": 81,
+      "_id": {
+        "$oid": "693f173570aff873ede72c3e"
+      }
+    },
+    {
+      "movie": {
+        "$oid": "693f173570aff873ede729bb"
+      },
+      "episode": 1,
+      "watchedAt": {
+        "$date": "2025-11-28T02:23:48.087Z"
+      },
+      "progress": 61,
+      "_id": {
+        "$oid": "693f173570aff873ede72c3f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:29.250Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f84b94b22d80faaef232f"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "password": "$2b$10$phvT1WNP8r3dmnMardcea.dnchebR/O2ajjb38FbywRScfwAz.xhm",
+  "avatar": "",
+  "role": "user",
+  "isActive": true,
+  "favorites": [],
+  "watchHistory": [],
+  "createdAt": {
+    "$date": "2025-12-15T03:47:05.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T03:47:05.254Z"
+  },
+  "__v": 0
+}]
