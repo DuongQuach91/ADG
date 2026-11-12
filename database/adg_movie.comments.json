@@ -1,0 +1,806 @@
+[{
+  "_id": {
+    "$oid": "693f173570aff873ede72c41"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729bd"
+  },
+  "user": {
+    "$oid": "693f172070aff873ede729a7"
+  },
+  "content": "Đánh giá 5 sao, không có gì để chê!",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c42"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72a91"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b3"
+  },
+  "content": "Phim hay quá! Xem một mạch không nghỉ.",
+  "likes": [],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c43"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729d3"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b1"
+  },
+  "content": "Phim này có twist không ai ngờ tới!",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a7"
+    },
+    {
+      "$oid": "693f172070aff873ede729ab"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c44"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72a29"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b1"
+  },
+  "content": "Phim hơi dài nhưng không chán.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a9"
+    },
+    {
+      "$oid": "693f172170aff873ede729b3"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c45"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729b9"
+  },
+  "user": {
+    "$oid": "693f172070aff873ede729a9"
+  },
+  "content": "Phim gia đình nên xem cùng nhau.",
+  "likes": [
+    {
+      "$oid": "693f172170aff873ede729b3"
+    },
+    {
+      "$oid": "693f172170aff873ede729b7"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c46"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729e1"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b1"
+  },
+  "content": "Phim hơi dài nhưng không chán.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a9"
+    },
+    {
+      "$oid": "693f172170aff873ede729b3"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c47"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729c7"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b7"
+  },
+  "content": "Phần 2 bao giờ ra vậy? Mong chờ quá!",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a7"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c48"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72a0d"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729af"
+  },
+  "content": "Phim có ý nghĩa sâu sắc, đáng suy ngẫm.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    },
+    {
+      "$oid": "693f172070aff873ede729a7"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c49"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729d9"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b1"
+  },
+  "content": "Phim hơi dài nhưng không chán.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    },
+    {
+      "$oid": "693f172170aff873ede729ad"
+    },
+    {
+      "$oid": "693f172170aff873ede729b3"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c4a"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72bc1"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b7"
+  },
+  "content": "Hình ảnh đẹp, nhạc phim hay. Recommend cho mọi người.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a9"
+    },
+    {
+      "$oid": "693f172170aff873ede729af"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c4b"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729bf"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b5"
+  },
+  "content": "Đoạn cuối làm mình khóc luôn T_T",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    },
+    {
+      "$oid": "693f172070aff873ede729a9"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c4c"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72af9"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b7"
+  },
+  "content": "Xem đi xem lại mấy lần vẫn thấy hay.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c4d"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729dd"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b3"
+  },
+  "content": "Đánh giá 5 sao, không có gì để chê!",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    },
+    {
+      "$oid": "693f172070aff873ede729a7"
+    },
+    {
+      "$oid": "693f172170aff873ede729ad"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c4e"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729d7"
+  },
+  "user": {
+    "$oid": "693f172070aff873ede729ab"
+  },
+  "content": "CGI đẹp thật sự, Hollywood cũng phải nể.",
+  "likes": [
+    {
+      "$oid": "693f172170aff873ede729ad"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c4f"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72ac5"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b3"
+  },
+  "content": "Phim hơi dài nhưng không chán.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a7"
+    },
+    {
+      "$oid": "693f172070aff873ede729ab"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c50"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729d9"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b5"
+  },
+  "content": "Đánh giá 5 sao, không có gì để chê!",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c51"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729d9"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729af"
+  },
+  "content": "CGI đẹp thật sự, Hollywood cũng phải nể.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    },
+    {
+      "$oid": "693f172070aff873ede729a7"
+    },
+    {
+      "$oid": "693f172170aff873ede729ad"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c52"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72a17"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729af"
+  },
+  "content": "Cảm ơn ADG đã upload phim này, chất lượng tuyệt vời.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a7"
+    },
+    {
+      "$oid": "693f172070aff873ede729a9"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c53"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729bd"
+  },
+  "user": {
+    "$oid": "693f172070aff873ede729a9"
+  },
+  "content": "Đây là phim hay nhất năm nay theo mình!",
+  "likes": [],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c54"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729c3"
+  },
+  "user": {
+    "$oid": "693f172070aff873ede729ab"
+  },
+  "content": "Phim hơi dài nhưng không chán.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c55"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729d5"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729ad"
+  },
+  "content": "Phim gia đình nên xem cùng nhau.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    },
+    {
+      "$oid": "693f172070aff873ede729a7"
+    },
+    {
+      "$oid": "693f172070aff873ede729a9"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c56"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72b2d"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b3"
+  },
+  "content": "Đánh giá 5 sao, không có gì để chê!",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c57"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729c5"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b7"
+  },
+  "content": "Kịch bản hơi đuối ở phần giữa nhưng kết thúc ấn tượng.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729ab"
+    },
+    {
+      "$oid": "693f172170aff873ede729af"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c58"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729cd"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b3"
+  },
+  "content": "Phần 2 bao giờ ra vậy? Mong chờ quá!",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c59"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede729d3"
+  },
+  "user": {
+    "$oid": "693f172170aff873ede729b5"
+  },
+  "content": "Diễn viên đóng xuất sắc, cảm xúc dâng trào.",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a9"
+    },
+    {
+      "$oid": "693f172070aff873ede729ab"
+    },
+    {
+      "$oid": "693f172170aff873ede729ad"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f7ba9004b25156b7e63c7"
+  },
+  "movie": {
+    "$oid": "693f173570aff873ede72bc1"
+  },
+  "user": {
+    "$oid": "693f172070aff873ede729a5"
+  },
+  "content": "ok đó",
+  "likes": [
+    {
+      "$oid": "693f172070aff873ede729a5"
+    }
+  ],
+  "dislikes": [],
+  "isEdited": false,
+  "isHidden": false,
+  "parentComment": null,
+  "replies": [],
+  "createdAt": {
+    "$date": "2025-12-15T03:08:25.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T03:18:15.499Z"
+  },
+  "__v": 1
+}]
