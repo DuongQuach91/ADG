@@ -1,0 +1,9 @@
+export { default as Dashboard } from './Dashboard';
+export { default as MovieManagement } from './MovieManagement';
+export { default as EpisodeManagement } from './EpisodeManagement';
+export { default as GenreManagement } from './GenreManagement';
+export { default as UserManagement } from './UserManagement';
+export { default as CommentManagement } from './CommentManagement';
+export { default as ReportManagement } from './ReportManagement';
+export { default as UserStats } from './UserStats';
+export { default as ViewStats } from './ViewStats';
