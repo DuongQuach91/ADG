@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "693f173570aff873ede72c5b"
+  },
+  "reporter": {
+    "$oid": "693f172070aff873ede729a7"
+  },
+  "type": "feedback",
+  "subject": "Góp ý về giao diện trang chủ",
+  "content": "Mình thấy banner phim nổi bật hơi nhỏ, có thể làm to hơn để dễ nhìn hơn không? Ngoài ra trang web rất đẹp và dễ sử dụng.",
+  "status": "resolved",
+  "adminNote": "Cảm ơn góp ý! Chúng tôi sẽ cải thiện trong bản cập nhật tiếp theo.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c5c"
+  },
+  "reporter": {
+    "$oid": "693f172070aff873ede729a9"
+  },
+  "type": "feedback",
+  "subject": "Đề xuất thêm tính năng",
+  "content": "Có thể thêm tính năng tải phim về xem offline không ạ? Mình hay đi công tác nên muốn xem khi không có mạng.",
+  "status": "processing",
+  "adminNote": "",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c5d"
+  },
+  "reporter": {
+    "$oid": "693f172070aff873ede729ab"
+  },
+  "type": "complaint",
+  "subject": "Video bị lag",
+  "content": "Một số phim hay bị buffer, dù mình đã chọn chất lượng HD. Mạng nhà mình 100Mbps nên không phải do mạng.",
+  "status": "pending",
+  "adminNote": "",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c5e"
+  },
+  "reporter": {
+    "$oid": "693f172170aff873ede729ad"
+  },
+  "type": "feedback",
+  "subject": "Khen ngợi dịch vụ",
+  "content": "Website rất tuyệt vời! Giao diện đẹp, phim nhiều, chất lượng cao. Cảm ơn team ADG!",
+  "status": "resolved",
+  "adminNote": "Cảm ơn bạn đã ủng hộ! Chúng tôi sẽ tiếp tục cố gắng.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c5f"
+  },
+  "reporter": {
+    "$oid": "693f172170aff873ede729af"
+  },
+  "type": "complaint",
+  "subject": "Phụ đề không đồng bộ",
+  "content": "Một số phim có phụ đề bị lệch khoảng 2-3 giây so với audio. Mong admin fix sớm.",
+  "status": "processing",
+  "adminNote": "Đang kiểm tra và sửa phụ đề.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c60"
+  },
+  "reporter": {
+    "$oid": "693f172070aff873ede729a7"
+  },
+  "type": "feedback",
+  "subject": "Thêm phim Việt Nam",
+  "content": "Mong admin thêm nhiều phim Việt Nam hơn, đặc biệt là các phim truyền hình VTV. Cảm ơn!",
+  "status": "pending",
+  "adminNote": "",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c61"
+  },
+  "reporter": {
+    "$oid": "693f172170aff873ede729b1"
+  },
+  "type": "feedback",
+  "subject": "Chức năng tìm kiếm rất tốt",
+  "content": "Tìm kiếm phim nhanh và chính xác. Lọc theo thể loại, năm rất tiện lợi. Good job!",
+  "status": "resolved",
+  "adminNote": "Cảm ơn phản hồi tích cực!",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72c62"
+  },
+  "reporter": {
+    "$oid": "693f172170aff873ede729b5"
+  },
+  "type": "complaint",
+  "subject": "Không xem được trên mobile",
+  "content": "App mobile bị crash khi xem phim HD. Điện thoại mình là iPhone 13, iOS mới nhất.",
+  "status": "pending",
+  "adminNote": "",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f7b42004b25156b7e42d0"
+  },
+  "reporter": {
+    "$oid": "693f172070aff873ede729a5"
+  },
+  "type": "feedback",
+  "subject": "test",
+  "content": "test",
+  "status": "processing",
+  "adminNote": "ok",
+  "createdAt": {
+    "$date": "2025-12-15T03:06:42.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T03:18:23.883Z"
+  },
+  "__v": 0
+}]
