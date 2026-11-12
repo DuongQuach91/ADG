@@ -1,0 +1,6987 @@
+[{
+  "_id": {
+    "$oid": "693f173570aff873ede729b9"
+  },
+  "title": "Phi Vụ Động Trời 2",
+  "slug": "phi-vu-dong-troi-2",
+  "description": "Trong bộ phim \"Zootopia 2 - Phi Vụ Động Trời 2\" từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết.",
+  "poster": "https://image.tmdb.org/t/p/w500/5wXpOF9WPUKliIzNBdAqwAStLHU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+  "trailerUrl": "https://www.youtube.com/watch?v=4iWVnVg33Pc",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72995"
+    },
+    {
+      "$oid": "693f172070aff873ede72991"
+    },
+    {
+      "$oid": "693f172070aff873ede72996"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 107,
+  "director": "Jared Bush",
+  "actors": [
+    "Ginnifer Goodwin",
+    "Jason Bateman",
+    "Quan Kế Huy",
+    "Fortune Feimster",
+    "Andy Samberg"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 33842,
+  "rating": {
+    "average": 3.8,
+    "count": 5
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.010Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729bb"
+  },
+  "title": "Trốn Chạy Tử Thần",
+  "slug": "tron-chay-tu-than",
+  "description": "Trong bối cảnh xã hội tương lai gần, Trốn Chạy Tử Thần là chương trình truyền hình ăn khách nhất, một cuộc thi sinh tồn khốc liệt nơi các thí sinh, được gọi là “Runners”, phải trốn chạy suốt 30 ngày khỏi sự truy đuổi của các sát thủ chuyên nghiệp. Mọi bước đi của họ đều được phát sóng công khai cho khán giả theo dõi và phần thưởng tiền mặt sẽ tăng lên sau mỗi ngày sống sót. Vì cần tiền cứu chữa cho cô con gái bệnh nặng, Ben Richards, một người lao động nghèo, chấp nhận lời mời từ Dan Killian, nhà sản xuất chương trình bảnh bao nhưng tàn nhẫn, để tham gia cuộc chơi như một lựa chọn cuối cùng. Tuy nhiên, sự gan lì, nhạy bén và ý chí sinh tồn mãnh liệt của Ben lại khiến anh bất ngờ trở thành nhân vật được khán giả yêu thích nhất và là mối đe dọa với cả hệ thống. Khi lượng người xem tăng vọt, hiểm nguy cũng ngày càng bủa vây. Giờ đây, Ben không chỉ phải đối mặt với toán sát thủ mà còn cả một đất nước đang nghiện cảm giác chứng kiến anh gục ngã.",
+  "poster": "https://image.tmdb.org/t/p/w500/lSUUBWX1vp4WkjTUkd2mbRUuwt8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    },
+    {
+      "$oid": "693f172070aff873ede72994"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 133,
+  "director": "Edgar Wright",
+  "actors": [
+    "Glen Powell",
+    "Josh Brolin",
+    "Colman Domingo",
+    "Lee Pace",
+    "Michael Cera"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 78413,
+  "rating": {
+    "average": 3.4,
+    "count": 4
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729bd"
+  },
+  "title": "Kẻ đâm lén: Đánh thức người chết",
+  "slug": "ke-dam-len-danh-thuc-nguoi-chet",
+  "description": "Thám tử Benoit Blanc bắt tay với vị linh mục trẻ nhiệt huyết để điều tra một tội ác hoàn toàn bất khả thi tại nhà thờ ở thị trấn nhỏ có quá khứ đen tối.",
+  "poster": "https://image.tmdb.org/t/p/w500/b1pBFNLcZsEvRS7CJBW4Ribe0Mw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede729a1"
+    },
+    {
+      "$oid": "693f172070aff873ede729a0"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 145,
+  "director": "Rian Johnson",
+  "actors": [
+    "Daniel Craig",
+    "Josh O'Connor",
+    "Glenn Close",
+    "Josh Brolin",
+    "Mila Kunis"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 102493,
+  "rating": {
+    "average": 3.7,
+    "count": 3
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729bf"
+  },
+  "title": "Hunting Season",
+  "slug": "hunting-season",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 93,
+  "director": "Raja Collins",
+  "actors": [
+    "Mel Gibson",
+    "Shelley Hennig",
+    "Jordi Mollà",
+    "Sofia Hublitz",
+    "A.J. Buckley"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 84949,
+  "rating": {
+    "average": 3.5,
+    "count": 306
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.015Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729c1"
+  },
+  "title": "Trò Chơi Ảo Giác: Ares",
+  "slug": "tro-choi-ao-giac-ares",
+  "description": "Một chương trình trí tuệ nhân tạo siêu việt mang tên Ares được gửi từ thế giới số vào thế giới thực trong một nhiệm vụ đầy nguy hiểm — đánh dấu lần đầu tiên nhân loại tiếp xúc trực tiếp với một thực thể A.I. sống động.",
+  "poster": "https://image.tmdb.org/t/p/w500/lj7imLGAzI3zKvbJtPH01aYW9lU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72994"
+    },
+    {
+      "$oid": "693f172070aff873ede72996"
+    },
+    {
+      "$oid": "693f172070aff873ede72990"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 119,
+  "director": "Joachim Rønning",
+  "actors": [
+    "Jared Leto",
+    "Greta Lee",
+    "Evan Peters",
+    "Gillian Anderson",
+    "Jodie Turner-Smith"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 39143,
+  "rating": {
+    "average": 3.3,
+    "count": 7
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729c3"
+  },
+  "title": "Năm Đêm Kinh Hoàng 2",
+  "slug": "nam-dem-kinh-hoang-2",
+  "description": "Một năm sau cơn ác mộng siêu nhiên tại tiệm Pizza Freddy Fazbear, những câu chuyện xoay quanh sự kiện ấy đã bị bóp méo thành một huyền thoại kỳ quặc tại địa phương, truyền cảm hứng cho lễ hội Fazfest đầu tiên của thị trấn. Không hề biết sự thật bị che giấu, Abby lén trốn ra ngoài để gặp lại Freddy, Bonnie, Chica và Foxy — khởi đầu cho chuỗi sự kiện kinh hoàng, hé lộ bí mật đen tối về nguồn gốc thật sự của Freddy’s, và đánh thức một nỗi kinh hoàng bị chôn vùi suốt hàng thập kỷ.",
+  "poster": "https://image.tmdb.org/t/p/w500/512e7sOroI5InisAXpPI1pqvcHG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bhhgVjnZ69ZoCGYvVT3djnAWSJA.jpg",
+  "trailerUrl": "https://www.youtube.com/watch?v=r_0jXxWp6d4",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72993"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 104,
+  "director": "Emma Tammi",
+  "actors": [
+    "Josh Hutcherson",
+    "Piper Rubio",
+    "Elizabeth Lail",
+    "Matthew Lillard",
+    "Freddy Carter"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 48428,
+  "rating": {
+    "average": 3.2,
+    "count": 1
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729c5"
+  },
+  "title": "Troll: Quỷ núi khổng lồ 2",
+  "slug": "troll-quy-nui-khong-lo-2",
+  "description": "Khi con quỷ núi nguy hiểm mới tàn phá quê nhà của họ, Nora, Andreas và Đại úy Kris dấn thân vào nhiệm vụ nguy hiểm nhất của họ từ trước đến nay.",
+  "poster": "https://image.tmdb.org/t/p/w500/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede7299f"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    }
+  ],
+  "country": "Norway",
+  "releaseYear": 2025,
+  "duration": 105,
+  "director": "Roar Uthaug",
+  "actors": [
+    "Ine Marie Wilmann",
+    "Kim S. Falck-Jørgensen",
+    "Mads Sjøgård Pettersen",
+    "Sara Khorami",
+    "Karoline Viktoria Sletteng Garvang"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 62943,
+  "rating": {
+    "average": 3.4,
+    "count": 2
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729c7"
+  },
+  "title": "Canh Bạc Cuối Cùng",
+  "slug": "canh-bac-cuoi-cung",
+  "description": "Cốt truyện xoay quanh Mason Goddard (John Travolta), một siêu trộm đang tận hưởng cuộc sống mơ ước cùng đồng đội và người phụ nữ anh yêu, Amelia Decker (Gina Gershon). Tuy nhiên, khi kẻ thù không đội trời chung là Salazar bắt cóc Decker, Mason buộc phải thực hiện một vụ cướp sòng bạc gần như không thể để đổi lấy sự tự do của cô. Trong khi đó, anh phải đối mặt với các đối thủ tàn nhẫn khác của Salazar và sự truy đuổi gắt gao từ FBI, đặt cược tất cả để cứu Decker.",
+  "poster": "https://image.tmdb.org/t/p/w500/hHowAaChDjwueySmwVbsjHmpWa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/me3SisKfnxwBP69aOVKAVMw9vDM.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72998"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 101,
+  "director": "Randall Emmett",
+  "actors": [
+    "John Travolta",
+    "Gina Gershon",
+    "Lukas Haas",
+    "Quavo",
+    "Natali Yura"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 102932,
+  "rating": {
+    "average": 3.3,
+    "count": 843
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729c9"
+  },
+  "title": "Tiếng Gọi London",
+  "slug": "tieng-goi-london",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1dqFuNiutgBdNF9d5QOQBWHHvft.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72998"
+    },
+    {
+      "$oid": "693f172070aff873ede72991"
+    }
+  ],
+  "country": "South Africa",
+  "releaseYear": 2025,
+  "duration": 114,
+  "director": "Allan Ungar",
+  "actors": [
+    "Josh Duhamel",
+    "Aidan Gillen",
+    "Jeremy Ray Taylor",
+    "Rick Hoffman",
+    "Arnold Vosloo"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 85630,
+  "rating": {
+    "average": 3.5,
+    "count": 362
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729cb"
+  },
+  "title": "Chainsaw Man - The Movie: Chương Reze",
+  "slug": "chainsaw-man-the-movie-chuong-reze",
+  "description": "Tiếp nối series anime chuyển thể đình đám, Chainsaw Man lần đầu tiên oanh tạc màn ảnh rộng trong một cuộc phiêu lưu hoành tráng, ngập tràn các phân cảnh hành động. Ở phần trước, ta đã biết Denji từng làm Thợ Săn Quỷ cho yakuza để trả món nợ của cha mẹ nhưng bị họ phản bội và trừ khử. Trong khoảnh khắc hấp hối, chú chó quỷ cưa máy Pochita (người bạn đồng hành trung thành của Denji) đã đưa ra một khế ước, cứu sống cậu và hợp thể cùng cậu. Từ đó, một Quỷ Cưa bất khả chiến bại ra đời. Giờ đây ở Chainsaw Man – The Movie: Chương Reze, trong cuộc chiến tàn khốc giữa quỷ dữ, thợ săn quỷ và những kẻ thù trong bóng tối, một cô gái bí ẩn tên Reze xuất hiện trong thế giới của Denji. Denji buộc phải đối mặt với trận chiến sinh tử khốc liệt nhất của mình, một trận chiến được tiếp sức bởi tình yêu trong một thế giới nơi mọi người phải sinh tồn mà không biết bất kỳ luật lệ nào.",
+  "poster": "https://image.tmdb.org/t/p/w500/kywH6s7qTa64i0drx3pNvpQufWR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72995"
+    },
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72992"
+    }
+  ],
+  "country": "Japan",
+  "releaseYear": 2025,
+  "duration": 100,
+  "director": "吉原達矢",
+  "actors": [
+    "戸谷菊之介",
+    "上田麗奈",
+    "楠木ともり",
+    "坂田将吾",
+    "内田真礼"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 103432,
+  "rating": {
+    "average": 4.1,
+    "count": 3
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.022Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729cd"
+  },
+  "title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+  "slug": "",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    },
+    {
+      "$oid": "693f172070aff873ede7299f"
+    }
+  ],
+  "country": "India",
+  "releaseYear": 2025,
+  "duration": 165,
+  "director": "Rishab Shetty",
+  "actors": [
+    "Rishab Shetty",
+    "Rukmini Vasanth",
+    "Jayaram",
+    "Gulshan Devaiah",
+    "Ramitha Shailendra"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 87539,
+  "rating": {
+    "average": 3.5,
+    "count": 274
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729d1"
+  },
+  "title": "Quái Thú Vô Hình: Vùng Đất Chết Chóc",
+  "slug": "quai-thu-vo-hinh-vung-dat-chet-choc",
+  "description": "Trong tương lai, tại một hành tinh hẻo lánh, một Predator non nớt - kẻ bị chính tộc của mình ruồng bỏ - tìm thấy một đồng minh không ngờ tới là Thia và bắt đầu hành trình sinh tử nhằm truy tìm kẻ thù tối thượng. Bộ phim do Dan Trachtenberg - đạo diễn của Prey chỉ đạo và nằm trong chuỗi thương hiệu Quái Thú Vô Hình Predator.",
+  "poster": "https://image.tmdb.org/t/p/w500/6aPy2tMgQLVz2IcifrL1Z2Q9u1t.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72994"
+    },
+    {
+      "$oid": "693f172070aff873ede72996"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 107,
+  "director": "Dan Trachtenberg",
+  "actors": [
+    "Elle Fanning",
+    "Dimitrius Schuster-Koloamatangi",
+    "Ravi Narayan",
+    "Michael Homick",
+    "Stefan Grube"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 26113,
+  "rating": {
+    "average": 3.7,
+    "count": 6
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729d3"
+  },
+  "title": "Cuộc Chiến Giữa Các Thế Giới",
+  "slug": "cuoc-chien-giua-cac-the-gioi",
+  "description": "Will Radford — chuyên gia phân tích an ninh mạng hàng đầu của Bộ An ninh Nội địa — chuyên theo dõi các mối đe dọa đến an ninh quốc gia thông qua một chương trình giám sát diện rộng. Nhưng một cuộc tấn công bất ngờ từ một thực thể bí ẩn đã khiến anh bắt đầu nghi ngờ: phải chăng chính phủ đang che giấu điều gì đó… không chỉ với anh mà với toàn thế giới?",
+  "poster": "https://image.tmdb.org/t/p/w500/3e6GQvCA9hguxqfqA75BDvG7Vvp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72994"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2025,
+  "duration": 91,
+  "director": "Rich Lee",
+  "actors": [
+    "Ice Cube",
+    "Eva Longoria",
+    "Clark Gregg",
+    "Iman Benson",
+    "Henry Hunter Hall"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 10844,
+  "rating": {
+    "average": 2.1,
+    "count": 7
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729d5"
+  },
+  "title": "Bổ Phong Truy Ảnh",
+  "slug": "bo-phong-truy-anh",
+  "description": "Wong Tak-Chung, một cựu chuyên gia giám sát được biết đến với khả năng phân tích dữ liệu và truy vết bậc thầy, bị cảnh sát Ma Cao mời trở lại hợp tác điều tra sau khi xuất hiện hàng loạt vụ cướp quy mô lớn do một tổ chức tội phạm công nghệ cao thực hiện.",
+  "poster": "https://image.tmdb.org/t/p/w500/5LGUvRBXoXHsMZsZrCGBOVmwOVd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72998"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    }
+  ],
+  "country": "China",
+  "releaseYear": 2025,
+  "duration": 142,
+  "director": "Larry Yang",
+  "actors": [
+    "Thành Long",
+    "Trương Tử Phong",
+    "Lương Gia Huy",
+    "Thử Sa",
+    "文俊辉"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 74464,
+  "rating": {
+    "average": 3.3,
+    "count": 1
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.030Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729d7"
+  },
+  "title": "Cục 749",
+  "slug": "cuc-749",
+  "description": "Một chàng trai trẻ bị tổn thương với những bất thường về thể chất buộc phải gia nhập một văn phòng bí ẩn để đối mặt với thảm họa lan rộng khắp trái đất do một sinh vật vô danh gây ra. Anh dấn thân vào một cuộc phiêu lưu khám phá những bí ẩn về cuộc đời mình.",
+  "poster": "https://image.tmdb.org/t/p/w500/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72996"
+    },
+    {
+      "$oid": "693f172070aff873ede72994"
+    }
+  ],
+  "country": "China",
+  "releaseYear": 2024,
+  "duration": 123,
+  "director": "陆川",
+  "actors": [
+    "Vương Tuấn Khải",
+    "苗苗",
+    "Trịnh Khải",
+    "Nhậm Mẫn",
+    "辛柏青"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 41241,
+  "rating": {
+    "average": 3.1,
+    "count": 900
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729d9"
+  },
+  "title": "Wildcat",
+  "slug": "wildcat",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede729a1"
+    },
+    {
+      "$oid": "693f172070aff873ede72998"
+    }
+  ],
+  "country": "United Kingdom",
+  "releaseYear": 2025,
+  "duration": 99,
+  "director": "James Nunn",
+  "actors": [
+    "Kate Beckinsale",
+    "Lewis Tan",
+    "Alice Krige",
+    "Charles Dance",
+    "Rasmus Hardiker"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 97418,
+  "rating": {
+    "average": 3,
+    "count": 876
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729db"
+  },
+  "title": "Lão Henry",
+  "slug": "lao-henry",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1uCX0fpYOdvrTIYulFymWOP08HT.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72990"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "United States of America",
+  "releaseYear": 2021,
+  "duration": 99,
+  "director": "Potsy Ponciroli",
+  "actors": [
+    "Tim Blake Nelson",
+    "Scott Haze",
+    "Gavin Lewis",
+    "Stephen Dorff",
+    "Trace Adkins"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 17088,
+  "rating": {
+    "average": 3.6,
+    "count": 6
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729dd"
+  },
+  "title": "Dracula: Bản Tình Ca Bất Diệt",
+  "slug": "dracula-ban-tinh-ca-bat-diet",
+  "description": "Một hoàng tử tuyệt vọng biến thành Dracula và lang thang bất tận qua thời gian, sống chỉ vì lời hứa tìm lại tình yêu của đời mình.",
+  "poster": "https://image.tmdb.org/t/p/w500/vevuZVvb72VrbDzHiz4D8Z8XuGF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xZa334CMleJwMVMJDH23xpHio5p.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72993"
+    },
+    {
+      "$oid": "693f172070aff873ede7299f"
+    },
+    {
+      "$oid": "693f172070aff873ede72992"
+    }
+  ],
+  "country": "France",
+  "releaseYear": 2025,
+  "duration": 130,
+  "director": "Luc Besson",
+  "actors": [
+    "Caleb Landry Jones",
+    "Zoë Bleu Sidel",
+    "Christoph Waltz",
+    "Matilda De Angelis",
+    "Ewens Abid"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 34382,
+  "rating": {
+    "average": 3.6,
+    "count": 6
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.034Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729df"
+  },
+  "title": "Dímelo bajito",
+  "slug": "dimelo-bajito",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/dvebFZgb6HczmYkOA43bGfSrvYl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72992"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "Spain",
+  "releaseYear": 2025,
+  "duration": 119,
+  "director": "Denis Rovira van Boekholt",
+  "actors": [
+    "Alícia Falcó",
+    "Fernando Lindez",
+    "Diego Vidales",
+    "Celia Freijeiro",
+    "Patricia Vico"
+  ],
+  "type": "movie",
+  "totalEpisodes": 1,
+  "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "quality": "Full HD",
+  "views": 12213,
+  "rating": {
+    "average": 3.2,
+    "count": 241
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede729e1"
+  },
+  "title": "Cậu bé mất tích",
+  "slug": "cau-be-mat-tich",
+  "description": "Khi một cậu bé mất tích, một thị trấn nhỏ khám phá ra một bí ẩn liên quan đến các thử nghiệm tối mật, sức mạnh siêu nhiên đáng sợ và một cô bé lạ lùng.",
+  "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+  "trailerUrl": "https://www.youtube.com/watch?v=_PG7jveKY1Q",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede729a0"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2016,
+  "duration": 0,
+  "director": "Ross Duffer",
+  "actors": [
+    "Millie Bobby Brown",
+    "Winona Ryder",
+    "David Harbour",
+    "Finn Wolfhard",
+    "Gaten Matarazzo"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede729e2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede729e3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede729e4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede729e5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede729e6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede729e7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede729e8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede729e9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede729ea"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede729eb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede729ec"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede729ed"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede729ee"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede729ef"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede729f0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede729f1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede729f2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede729f3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede729f4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede729f5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede729f6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede729f7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede729f8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede729f9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede729fa"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede729fb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede729fc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede729fd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede729fe"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede729ff"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72a00"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a01"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a02"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a03"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72a04"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a05"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a06"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a07"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72a08"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72a09"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a0a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a0b"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 42,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 81292,
+  "rating": {
+    "average": 4.3,
+    "count": 195
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72a0d"
+  },
+  "title": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
+  "slug": "ga-he-ma-quai-chao-mung-den-derry",
+  "description": "Năm 1962, một cặp vợ chồng cùng con trai chuyển đến Derry, Maine đúng lúc một cậu bé biến mất. Với sự xuất hiện của họ, những điều khủng khiếp bắt đầu xảy ra trong thị trấn.",
+  "poster": "https://image.tmdb.org/t/p/w500/dAf1nIaHxB6RJm8OxN3rp2W4yyc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72997"
+    },
+    {
+      "$oid": "693f172070aff873ede729a0"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2025,
+  "duration": 0,
+  "director": "Andy Muschietti",
+  "actors": [
+    "Taylour Paige",
+    "Jovan Adepo",
+    "Matilda Lawler",
+    "Amanda Christine",
+    "Clara Stack"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72a0e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72a0f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a10"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72a11"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a12"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a13"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a14"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a15"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 8,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 42251,
+  "rating": {
+    "average": 4.1,
+    "count": 7
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72a17"
+  },
+  "title": "Spartacus: Gia Tộc Ashur",
+  "slug": "spartacus-gia-toc-ashur",
+  "description": "Trong một thế giới mà hắn đã sống sót sau sự kiện Spartacus (2010), Ashur đã giành được quyền lực, sở hữu chính đấu trường Ludus mà hắn từng sở hữu. Liên minh với một nữ đấu sĩ hung dữ, Ashur tạo ra một màn trình diễn mới khiến giới thượng lưu phải phẫn nộ.",
+  "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ckPbbcJOcL43mJBrROTMrtOBIYK.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2025,
+  "duration": 0,
+  "director": "Steven S. DeKnight",
+  "actors": [
+    "Nick E. Tarabay",
+    "Graham McTavish",
+    "Tenika Davis",
+    "Jamaica Vaughan",
+    "Ivana Baquero"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a18"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a19"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72a1a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a1b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72a1c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72a1d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a1e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72a1f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a20"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a21"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 10,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 57223,
+  "rating": {
+    "average": 3,
+    "count": 500
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72a23"
+  },
+  "title": "Cuộc chiến với bé bi",
+  "slug": "cuoc-chien-voi-be-bi",
+  "description": "Giáng sinh đến gần, ông bố hậu đậu nọ phải xoay xở giữa việc trông coi căn hộ áp mái xa hoa ở London và xử lý một rắc rối bất ngờ: chăm một em bé bị lạc.",
+  "poster": "https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72991"
+    },
+    {
+      "$oid": "693f172070aff873ede7299c"
+    }
+  ],
+  "country": "GB",
+  "releaseYear": 2025,
+  "duration": 0,
+  "director": "Rowan Atkinson",
+  "actors": [
+    "Rowan Atkinson"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72a24"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72a25"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72a26"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a27"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 4,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 99824,
+  "rating": {
+    "average": 3.6,
+    "count": 145
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.048Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72a29"
+  },
+  "title": "Siêu Nhiên",
+  "slug": "sieu-nhien",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/u40gJarLPlIkwouKlzGdobQOV9k.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72997"
+    },
+    {
+      "$oid": "693f172070aff873ede729a0"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2005,
+  "duration": 0,
+  "director": "Eric Kripke",
+  "actors": [
+    "Jared Padalecki",
+    "Jensen Ackles",
+    "Misha Collins"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a2a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a2b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a2c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72a2d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72a2e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72a2f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a30"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a31"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72a32"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72a33"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a34"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a35"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72a36"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a37"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72a38"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72a39"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a3a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a3b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a3c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a3d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a3e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a3f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72a40"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a41"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a42"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a43"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72a44"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a45"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a46"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a47"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a48"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a49"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a4a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72a4b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72a4c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72a4d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a4e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a4f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72a50"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a51"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a52"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72a53"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a54"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72a55"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a56"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a57"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a58"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a59"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72a5a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a5b"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 149033,
+  "rating": {
+    "average": 4.2,
+    "count": 81
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72a5d"
+  },
+  "title": "Ca Phẫu Thuật Của Grey",
+  "slug": "ca-phau-thuat-cua-grey",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2005,
+  "duration": 0,
+  "director": "Shonda Rhimes",
+  "actors": [
+    "Ellen Pompeo",
+    "Chandra Wilson",
+    "James Pickens Jr.",
+    "Kevin McKidd",
+    "Caterina Scorsone"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a5e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72a5f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72a60"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a61"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a62"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72a63"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72a64"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a65"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a66"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a67"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a68"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a69"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a6a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a6b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a6c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a6d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72a6e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a6f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a70"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a71"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72a72"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a73"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a74"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a75"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72a76"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a77"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72a78"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72a79"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72a7a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a7b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a7c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72a7d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a7e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72a7f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a80"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72a81"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72a82"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72a83"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a84"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a85"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72a86"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a87"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a88"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a89"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72a8a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72a8b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72a8c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a8d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72a8e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72a8f"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 26637,
+  "rating": {
+    "average": 4.1,
+    "count": 107
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72a91"
+  },
+  "title": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt",
+  "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2wgk47yrb2WnXAdSBLFX9EiU882.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72998"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    },
+    {
+      "$oid": "693f172070aff873ede729a0"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 1999,
+  "duration": 0,
+  "director": "Dick Wolf",
+  "actors": [
+    "Mariska Hargitay",
+    "Ice-T",
+    "Kelli Giddish",
+    "Peter Scanavino",
+    "Aimé Donna Kelly"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a92"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72a93"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72a94"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72a95"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72a96"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72a97"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72a98"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72a99"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72a9a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72a9b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72a9c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a9d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72a9e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72a9f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72aa9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72aaa"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72aab"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72aac"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72aad"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72aae"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72aaf"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72ab9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72aba"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72abb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72abc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72abd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72abe"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72abf"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac3"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 21358,
+  "rating": {
+    "average": 4,
+    "count": 40
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72ac5"
+  },
+  "title": "Gia Đình Simpson",
+  "slug": "gia-dinh-simpson",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jvTeRgjFsp66xj8SWxhr7O2J4ud.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede7299c"
+    },
+    {
+      "$oid": "693f172070aff873ede72995"
+    },
+    {
+      "$oid": "693f172070aff873ede72991"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 1989,
+  "duration": 0,
+  "director": "Matt Groening",
+  "actors": [
+    "Dan Castellaneta",
+    "Julie Kavner",
+    "Nancy Cartwright",
+    "Yeardley Smith",
+    "Hank Azaria"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72ac9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72aca"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72acb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72acc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72acd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72ace"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72acf"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72ad9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72ada"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72adb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72adc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72add"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72ade"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72adf"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72ae9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72aea"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72aeb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72aec"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72aed"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72aee"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72aef"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72af0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72af1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72af2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72af3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72af4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72af5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72af6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72af7"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 102758,
+  "rating": {
+    "average": 4,
+    "count": 104
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72af9"
+  },
+  "title": "Trò Chơi Vương Quyền",
+  "slug": "tro-choi-vuong-quyen",
+  "description": "Game of Throne - Trò Chơi Vương Quyền kể về 7 gia tộc chiến đấu để làm chủ vùng đất thần thoại Westeros. Những gia tộc thống trị là Stark, Lannister, và Baratheon. Vị vua của Westeros, Robert Baratheon, yêu cầu người bạn cũ của ông là Eddard – lãnh chúa Stark giữ chức vụ cao, Eddard miễn cưỡng chấp nhận mệnh lệnh để tìm ra sự thật đằng sau. Trong lúc ấy, gia tộc của nữ hoàng, Lannisters, có lẽ đang dự tính mưu đồ để tước đoạt quyền lực. Ở phía bên kia biển khơi, những thành viên cuối cùng của dòng tộc trước đây đã bị truất phế quyền thống trị, Targaryens, cũng đang sắp đặt kế hoạch giành lại ngai vàng. Còn ở phía cực Bắc, Bóng Trắng – loài quỷ vốn chìm trong giấc ngủ rất dài, nay đã thức giấc…",
+  "poster": "https://image.tmdb.org/t/p/w500/rTfGHXomsVmTB5sAG2WKFcW5yzr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+  "trailerUrl": "https://www.youtube.com/watch?v=L4kkaeZ0ZOI",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2011,
+  "duration": 0,
+  "director": "David Benioff",
+  "actors": [
+    "Peter Dinklage",
+    "Kit Harington",
+    "Nikolaj Coster-Waldau",
+    "Lena Headey",
+    "Emilia Clarke"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72afa"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72afb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72afc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72afd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72afe"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72aff"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72b00"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72b01"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b02"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b03"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72b04"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b05"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72b06"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72b07"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b08"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b09"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b0a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b0b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b0c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b0d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b0e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72b0f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72b10"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b11"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b12"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b13"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72b14"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72b15"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b16"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72b17"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72b18"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72b19"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72b1a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b1b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b1c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b1d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b1e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72b1f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b20"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72b21"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b22"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72b23"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72b24"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b25"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72b26"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72b27"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72b28"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b29"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72b2a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b2b"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 23729,
+  "rating": {
+    "average": 4.2,
+    "count": 259
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72b2d"
+  },
+  "title": "Đại chiến người và thần",
+  "slug": "dai-chien-nguoi-va-than",
+  "description": "Trước khi xóa sổ loài người khỏi thế giới, các vị thần cho họ cơ hội cuối cùng để chứng minh họ đáng được sống. Đã đến lúc Đại chiến người và thần bắt đầu!",
+  "poster": "https://image.tmdb.org/t/p/w500/68SS9Wah1JfYUrkyXZkE41E3DOL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6pSkqecoNsxSA467Z28uhVDrjXo.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72995"
+    }
+  ],
+  "country": "JP",
+  "releaseYear": 2021,
+  "duration": 0,
+  "director": "",
+  "actors": [
+    "沢城みゆき",
+    "黒沢ともよ",
+    "高木渉",
+    "諏訪部順一",
+    "関智一"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b2e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b2f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72b30"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b31"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b32"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72b33"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b34"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72b35"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b36"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72b37"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b38"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b39"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b3a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b3b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b3c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b3d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b3e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72b3f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b40"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b41"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b42"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b43"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b44"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72b45"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72b46"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b47"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b48"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b49"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b4a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b4b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72b4c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72b4d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b4e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b4f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72b50"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72b51"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b52"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b53"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72b54"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72b55"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72b56"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b57"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 42,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 94630,
+  "rating": {
+    "average": 4.2,
+    "count": 17
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72b59"
+  },
+  "title": "Lính Mới",
+  "slug": "linh-moi",
+  "description": "Một sự cố thay đổi cuộc đời thúc đẩy người đàn ông 45 tuổi theo đuổi ước mơ làm cảnh sát. Nhưng để được nhận, anh phải chứng minh năng lực với cấp trên tại Sở Cảnh sát Los Angeles.",
+  "poster": "https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72998"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    },
+    {
+      "$oid": "693f172070aff873ede72991"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2018,
+  "duration": 0,
+  "director": "Alexi Hawley",
+  "actors": [
+    "Nathan Fillion",
+    "Melissa O'Neil",
+    "Eric Winter",
+    "Alyssa Diaz",
+    "Mekia Cox"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72b5a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b5b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72b5c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b5d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b5e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b5f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b60"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b61"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b62"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b63"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b64"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72b65"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72b66"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b67"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b68"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b69"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b6a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72b6b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b6c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b6d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72b6e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b6f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72b70"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b71"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b72"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b73"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72b74"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72b75"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72b76"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b77"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72b78"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b79"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b7a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b7b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b7c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b7d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b7e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b7f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72b80"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b81"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b82"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b83"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b84"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b85"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72b86"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72b87"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b88"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72b89"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72b8a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72b8b"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 115546,
+  "rating": {
+    "average": 4.3,
+    "count": 27
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72b8d"
+  },
+  "title": "NCIS",
+  "slug": "ncis",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72998"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2003,
+  "duration": 0,
+  "director": "Don McGill",
+  "actors": [
+    "Sean Murray",
+    "Wilmer Valderrama",
+    "Katrina Law",
+    "Brian Dietzen",
+    "Rocky Carroll"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72b8e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72b8f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b90"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72b91"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72b92"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72b93"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72b94"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b95"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72b96"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b97"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72b98"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72b99"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72b9a"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72b9b"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72b9c"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72b9d"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72b9e"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72b9f"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72ba9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72baa"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72bab"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72bac"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72bad"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72bae"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72baf"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72bb9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72bba"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72bbb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72bbc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 49,
+      "_id": {
+        "$oid": "693f173570aff873ede72bbd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72bbe"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72bbf"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 50288,
+  "rating": {
+    "average": 3.8,
+    "count": 24
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72bc1"
+  },
+  "title": "Thiên Thần Khát Máu",
+  "slug": "thien-than-khat-mau",
+  "description": "Vào ban ngày, Dexter Morgan là một nhân viên vui tính của Sở cảnh sát Miami. Anh là một chuyên viên giám định vết máu và cũng là trụ cột gia đình, là người chu cấp cho chị (em) gái. Dexter có một người bạn gái đứng đắn, với hai đứa trẻ hết lòng kính mến anh. Nhưng anh cũng có một cuộc sống thực sự khác về đêm.",
+  "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72998"
+    },
+    {
+      "$oid": "693f172070aff873ede72997"
+    },
+    {
+      "$oid": "693f172070aff873ede729a0"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2006,
+  "duration": 0,
+  "director": "James Manos Jr.",
+  "actors": [
+    "Michael C. Hall",
+    "Jennifer Carpenter",
+    "Geoff Pierson",
+    "David Zayas",
+    "James Remar"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72bc9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72bca"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Tập 10",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72bcb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Tập 11",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72bcc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Tập 12",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72bcd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Tập 13",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 40,
+      "_id": {
+        "$oid": "693f173570aff873ede72bce"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Tập 14",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72bcf"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Tập 15",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Tập 16",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Tập 17",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Tập 18",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Tập 19",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Tập 20",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Tập 21",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Tập 22",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Tập 23",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Tập 24",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 58,
+      "_id": {
+        "$oid": "693f173570aff873ede72bd9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Tập 25",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72bda"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Tập 26",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72bdb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Tập 27",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72bdc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Tập 28",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 41,
+      "_id": {
+        "$oid": "693f173570aff873ede72bdd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Tập 29",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 48,
+      "_id": {
+        "$oid": "693f173570aff873ede72bde"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Tập 30",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72bdf"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Tập 31",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72be0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Tập 32",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72be1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Tập 33",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72be2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Tập 34",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72be3"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Tập 35",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72be4"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Tập 36",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72be5"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Tập 37",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 45,
+      "_id": {
+        "$oid": "693f173570aff873ede72be6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Tập 38",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72be7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Tập 39",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72be8"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Tập 40",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72be9"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Tập 41",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72bea"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Tập 42",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 52,
+      "_id": {
+        "$oid": "693f173570aff873ede72beb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Tập 43",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 44,
+      "_id": {
+        "$oid": "693f173570aff873ede72bec"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Tập 44",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72bed"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Tập 45",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72bee"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Tập 46",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 42,
+      "_id": {
+        "$oid": "693f173570aff873ede72bef"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Tập 47",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 46,
+      "_id": {
+        "$oid": "693f173570aff873ede72bf0"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Tập 48",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72bf1"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Tập 49",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72bf2"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Tập 50",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 53,
+      "_id": {
+        "$oid": "693f173570aff873ede72bf3"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 50,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 64715,
+  "rating": {
+    "average": 4.1,
+    "count": 51
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72bf5"
+  },
+  "title": "The Boys from Brazil: Rise of the Bolsonaros",
+  "slug": "the-boys-from-brazil-rise-of-the-bolsonaros",
+  "description": "Chưa có mô tả",
+  "poster": "https://image.tmdb.org/t/p/w500/sZXernSnVWGhlrAhDUDtdg3fuZn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kgXhHyQVPbWrmE2hvjrnLsGZBMs.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede729a2"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2022,
+  "duration": 0,
+  "director": "",
+  "actors": [],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72bf6"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 54,
+      "_id": {
+        "$oid": "693f173570aff873ede72bf7"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72bf8"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 3,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 64703,
+  "rating": {
+    "average": 3.5,
+    "count": 50
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f173570aff873ede72bfa"
+  },
+  "title": "Kẻ Lạc Loài - Pluribus",
+  "slug": "ke-lac-loai-pluribus",
+  "description": "Người bất hạnh nhất trên đời phải cứu thế giới khỏi ác mộng hạnh phúc.",
+  "poster": "https://image.tmdb.org/t/p/w500/9qXl7Fa6aqRyL8AxVqhPUmcCqYP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+  "trailerUrl": "",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede72997"
+    }
+  ],
+  "country": "US",
+  "releaseYear": 2025,
+  "duration": 0,
+  "director": "Vince Gilligan",
+  "actors": [
+    "Rhea Seehorn",
+    "Karolina Wydra",
+    "Carlos-Manuel Vesga"
+  ],
+  "type": "series",
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Tập 1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 56,
+      "_id": {
+        "$oid": "693f173570aff873ede72bfb"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Tập 2",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 47,
+      "_id": {
+        "$oid": "693f173570aff873ede72bfc"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Tập 3",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72bfd"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Tập 4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 59,
+      "_id": {
+        "$oid": "693f173570aff873ede72bfe"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Tập 5",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 55,
+      "_id": {
+        "$oid": "693f173570aff873ede72bff"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Tập 6",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 57,
+      "_id": {
+        "$oid": "693f173570aff873ede72c00"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Tập 7",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 50,
+      "_id": {
+        "$oid": "693f173570aff873ede72c01"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Tập 8",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 43,
+      "_id": {
+        "$oid": "693f173570aff873ede72c02"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Tập 9",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "duration": 51,
+      "_id": {
+        "$oid": "693f173570aff873ede72c03"
+      },
+      "subtitles": []
+    }
+  ],
+  "totalEpisodes": 9,
+  "videoUrl": "",
+  "quality": "Full HD",
+  "views": 105964,
+  "rating": {
+    "average": 4,
+    "count": 2
+  },
+  "isActive": true,
+  "isFeatured": true,
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-14T19:59:49.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:49.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f805a09599986231d5cc0"
+  },
+  "title": "test",
+  "slug": "test",
+  "description": "test",
+  "poster": "https://res.cloudinary.com/daytrfyrg/image/upload/v1765769264/adg-movies/u83xsuggt2uet7kdi64f.png",
+  "backdrop": "https://res.cloudinary.com/daytrfyrg/image/upload/v1765769269/adg-movies/huykii2clmfn7egyqlcw.png",
+  "trailerUrl": "https://youtu.be/ffVR8mDBBl8?list=RDffVR8mDBBl8",
+  "genres": [
+    {
+      "$oid": "693f172070aff873ede729a0"
+    },
+    {
+      "$oid": "693f172070aff873ede72996"
+    },
+    {
+      "$oid": "693f172070aff873ede7299e"
+    }
+  ],
+  "country": "Tây Ban Nha",
+  "releaseYear": 2025,
+  "duration": 0,
+  "director": "ht",
+  "actors": [
+    "dien1"
+  ],
+  "type": "series",
+  "totalEpisodes": 5,
+  "videoUrl": "https://youtu.be/ffVR8mDBBl8?list=RDffVR8mDBBl8",
+  "quality": "HD",
+  "views": 2,
+  "rating": {
+    "average": 3,
+    "count": 1
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Test1",
+      "videoUrl": "https://youtu.be/291y9fxEmpA?list=RD291y9fxEmpA",
+      "duration": 0,
+      "_id": {
+        "$oid": "693f839523c2de3d19e4a570"
+      },
+      "subtitles": []
+    },
+    {
+      "episodeNumber": 2,
+      "title": "test 2",
+      "videoUrl": "https://youtu.be/EjvFSHqei44?list=RDEjvFSHqei44",
+      "duration": 0,
+      "_id": {
+        "$oid": "693f83a023c2de3d19e4a578"
+      },
+      "subtitles": []
+    }
+  ],
+  "subtitles": [],
+  "createdAt": {
+    "$date": "2025-12-15T03:28:26.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T03:46:30.417Z"
+  },
+  "__v": 2
+}]
