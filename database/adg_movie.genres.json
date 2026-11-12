@@ -1,0 +1,315 @@
+[{
+  "_id": {
+    "$oid": "693f172070aff873ede72990"
+  },
+  "name": "Hành động",
+  "slug": "hanh-dong",
+  "description": "Phim có nhiều cảnh chiến đấu, đuổi bắt, nổ tung",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72991"
+  },
+  "name": "Hài hước",
+  "slug": "hai-huoc",
+  "description": "Phim mang lại tiếng cười và sự giải trí",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72992"
+  },
+  "name": "Tình cảm",
+  "slug": "tinh-cam",
+  "description": "Phim về tình yêu và các mối quan hệ",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72993"
+  },
+  "name": "Kinh dị",
+  "slug": "kinh-di",
+  "description": "Phim gây sợ hãi và hồi hộp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72994"
+  },
+  "name": "Viễn tưởng",
+  "slug": "vien-tuong",
+  "description": "Phim về khoa học viễn tưởng và tương lai",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72995"
+  },
+  "name": "Hoạt hình",
+  "slug": "hoat-hinh",
+  "description": "Phim hoạt hình dành cho mọi lứa tuổi",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72996"
+  },
+  "name": "Phiêu lưu",
+  "slug": "phieu-luu",
+  "description": "Phim về những cuộc hành trình và khám phá",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72997"
+  },
+  "name": "Tâm lý",
+  "slug": "tam-ly",
+  "description": "Phim khai thác sâu về tâm lý nhân vật",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72998"
+  },
+  "name": "Hình sự",
+  "slug": "hinh-su",
+  "description": "Phim về tội phạm và điều tra",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede72999"
+  },
+  "name": "Cổ trang",
+  "slug": "co-trang",
+  "description": "Phim về lịch sử và thời kỳ xưa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede7299a"
+  },
+  "name": "Võ thuật",
+  "slug": "vo-thuat",
+  "description": "Phim có nhiều cảnh võ thuật đẹp mắt",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede7299b"
+  },
+  "name": "Chiến tranh",
+  "slug": "chien-tranh",
+  "description": "Phim về các cuộc chiến tranh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede7299c"
+  },
+  "name": "Gia đình",
+  "slug": "gia-dinh",
+  "description": "Phim phù hợp cho cả gia đình xem",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede7299d"
+  },
+  "name": "Âm nhạc",
+  "slug": "am-nhac",
+  "description": "Phim về âm nhạc và ca sĩ",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede7299e"
+  },
+  "name": "Thể thao",
+  "slug": "the-thao",
+  "description": "Phim về các môn thể thao",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede7299f"
+  },
+  "name": "Giả tưởng",
+  "slug": "gia-tuong",
+  "description": "Phim về thế giới giả tưởng, phép thuật",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede729a0"
+  },
+  "name": "Bí ẩn",
+  "slug": "bi-an",
+  "description": "Phim về những bí ẩn cần giải đáp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede729a1"
+  },
+  "name": "Giật gân",
+  "slug": "giat-gan",
+  "description": "Phim gây cảm giác hồi hộp, căng thẳng",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede729a2"
+  },
+  "name": "Tài liệu",
+  "slug": "tai-lieu",
+  "description": "Phim tài liệu về các sự kiện, nhân vật thật",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f172070aff873ede729a3"
+  },
+  "name": "Lịch sử",
+  "slug": "lich-su",
+  "description": "Phim về các sự kiện lịch sử",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-14T19:59:28.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693f7dd9004b25156b7e91b9"
+  },
+  "name": "test",
+  "slug": "test",
+  "description": "",
+  "createdAt": {
+    "$date": "2025-12-15T03:17:45.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-15T03:17:45.937Z"
+  },
+  "__v": 0
+}]
